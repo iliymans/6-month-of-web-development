@@ -1,0 +1,8 @@
+Web Development:
+URL = Uniform Resource Locator.
+HTTPS = HyperText Transfer Protocol Secure. The “language” client & server speak
+HTML = HtperText Markup Language.
+CSS = Cascading Style Sheets.
+IP = Internet Protocol. A unique identifier(“address”) of network devices. 
+DNS = Domain Name System. Stores domain IP translation tables.
+-We don’t use domain for establishing connection, because every device has IP address but not every device has a domain.
